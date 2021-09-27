@@ -1,0 +1,12 @@
+C:\Users\ahmed.hamma\source\repos\projetIteration2bis\projetIteration2bis\obj\Debug\projetIteration2bis.csproj.AssemblyReference.cache
+C:\Users\ahmed.hamma\source\repos\projetIteration2bis\projetIteration2bis\obj\Debug\projetIteration2bis.csproj.CoreCompileInputs.cache
+C:\Users\ahmed.hamma\source\repos\projetIteration2bis\projetIteration2bis\bin\Debug\projetIteration2bis.exe.config
+C:\Users\ahmed.hamma\source\repos\projetIteration2bis\projetIteration2bis\bin\Debug\projetIteration2bis.exe
+C:\Users\ahmed.hamma\source\repos\projetIteration2bis\projetIteration2bis\bin\Debug\projetIteration2bis.pdb
+C:\Users\ahmed.hamma\source\repos\projetIteration2bis\projetIteration2bis\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ahmed.hamma\source\repos\projetIteration2bis\projetIteration2bis\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ahmed.hamma\source\repos\projetIteration2bis\projetIteration2bis\obj\Debug\projetIteration2bis.csproj.CopyComplete
+C:\Users\ahmed.hamma\source\repos\projetIteration2bis\projetIteration2bis\obj\Debug\projetIteration2bis.exe
+C:\Users\ahmed.hamma\source\repos\projetIteration2bis\projetIteration2bis\obj\Debug\projetIteration2bis.pdb
+C:\Users\ahmed.hamma\source\repos\projetIteration2bis\projetIteration2bis\bin\Debug\lib.dll
+C:\Users\ahmed.hamma\source\repos\projetIteration2bis\projetIteration2bis\bin\Debug\lib.pdb
